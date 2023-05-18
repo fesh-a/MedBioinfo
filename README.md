@@ -10,6 +10,8 @@ Samples (either Nasopharyngeal or Throat swabs) are from 125 patients, either CO
 Aknowledgment: kudos to the authors for providing all the required data to reproduce the analysis, both as online supplementary material to the published paper, as raw sequence data submissions to 
 open international archives, and as as prompt replies to email queries. 
 
+HI it's MARIIA here and just a little memo that I've here copied your repo and now will work on some stuff with you
+
 ### Aim of the re-analysis
 
 Use k-mer based binning of the raw reads to identify potential human pathogens in the samples (including SARS-CoV-2).
